@@ -1,11 +1,56 @@
 {
-  "Battle Animations": [],
+  "Battle Animations": [
+    "https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FInfantry%20-%20Knights%2C%20Generals%2C%20Armors%2F%5BMarshall%5D%20Zelgius%20v2%20With%20Helmet%20%5BM%5D",
+    "https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FLords%20-%20Vanilla%20and%20Custom%2F%5BFE7%20Eliwood-Reskin%5D%20T1%20%5BM%5D%20by%20RedBean",
+    "https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FLords%20-%20Vanilla%20and%20Custom%2F%5BFE7%20Hector-Variant%5D%20T1%20Harbinger%20%5BU%5D%20by%20tatata",
+    "https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FLords%20-%20Vanilla%20and%20Custom%2F%5BFE7%20Hector-Variant%5D%20T2%20Legendary%20Harbinger%20%5BU%5D",
+    "https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations%2FMounted%20-%20Cavs%2C%20Paladins%2C%20Rangers%2F%5BNomad%20Trooper%20Reskin%5D%20%5BF%5D%20FE6%20Style%20by%20Levin64"
+  ],
   "Class Cards": [],
-  "Item Icons": [],
-  "Map Sprites": [],
-  "Portrait Repository": [
-    "https://raw.githubusercontent.com/Klokinator/FE-Repo/refs/heads/main/Portrait%20Repository%2FFE16%20Mugs%20%28Three%20Houses%20%2B%20Three%20Hopes%29%2FDimitri%20%28War%20Arc%2C%20Feral%20Armor%2C%20Eyebag%29%20%7BGratedShtick%2C%20JeyTheCount%7D%20%5BF2E%5D.png",
-    "https://raw.githubusercontent.com/Klokinator/FE-Repo/refs/heads/main/Portrait%20Repository%2FFE16%20Mugs%20%28Three%20Houses%20%2B%20Three%20Hopes%29%2FDimitri%20%28War%20Arc%2C%20Feral%20Armor%2C%20Rested%29%20%7BGratedShtick%2C%20JeyTheCount%7D%20%5BF2E%5D.png",
-    "https://raw.githubusercontent.com/Klokinator/FE-Repo/refs/heads/main/Portrait%20Repository%2FFE16%20Mugs%20%28Three%20Houses%20%2B%20Three%20Hopes%29%2FDimitri%20%28War%20Arc%2C%20KoL%20Armor%29%20%7BGratedShtick%2C%20JeyTheCount%7D%20%5BF2E%5D.png"
-  ]
+  "Item Icons": [
+    "https://raw.githubusercontent.com/Klokinator/FE-Repo/refs/heads/main/Item%20Icons%2FBows%20-%20Base%2F%7BJimi2Morrow%7D%20Iron%20Bow%20with%20Vines.png",
+    "https://raw.githubusercontent.com/Klokinator/FE-Repo/refs/heads/main/Item%20Icons%2FItems%20-%20Misc%2F%7BJimi2Morrow%7D%20Carrot%20Cake.png",
+    "https://raw.githubusercontent.com/Klokinator/FE-Repo/refs/heads/main/Item%20Icons%2FItems%20-%20Misc%2F%7BJimi2Morrow%7D%20Coin%20Purse.png",
+    "https://raw.githubusercontent.com/Klokinator/FE-Repo/refs/heads/main/Item%20Icons%2FItems%20-%20Misc%2F%7BJimi2Morrow%7D%20Colored%20Flames%20%28Blue%20and%20Red%29.png",
+    "https://raw.githubusercontent.com/Klokinator/FE-Repo/refs/heads/main/Item%20Icons%2FItems%20-%20Misc%2F%7BJimi2Morrow%7D%20Colored%20Flames%20%28Blue%20and%20White%29.png",
+    "https://raw.githubusercontent.com/Klokinator/FE-Repo/refs/heads/main/Item%20Icons%2FItems%20-%20Misc%2F%7BJimi2Morrow%7D%20Colored%20Flames%20%28Green%29.png",
+    "https://raw.githubusercontent.com/Klokinator/FE-Repo/refs/heads/main/Item%20Icons%2FItems%20-%20Misc%2F%7BJimi2Morrow%7D%20Colored%20Flames%20%28Red%29.png",
+    "https://raw.githubusercontent.com/Klokinator/FE-Repo/refs/heads/main/Item%20Icons%2FItems%20-%20Misc%2F%7BJimi2Morrow%7D%20Colored%20Flames%20%28White%29.png",
+    "https://raw.githubusercontent.com/Klokinator/FE-Repo/refs/heads/main/Item%20Icons%2FItems%20-%20Misc%2F%7BJimi2Morrow%7D%20Creepy%20Doll.png",
+    "https://raw.githubusercontent.com/Klokinator/FE-Repo/refs/heads/main/Item%20Icons%2FItems%20-%20Misc%2F%7BJimi2Morrow%7D%20Dynamite.png",
+    "https://raw.githubusercontent.com/Klokinator/FE-Repo/refs/heads/main/Item%20Icons%2FItems%20-%20Misc%2F%7BJimi2Morrow%7D%20Envelope.png",
+    "https://raw.githubusercontent.com/Klokinator/FE-Repo/refs/heads/main/Item%20Icons%2FItems%20-%20Misc%2F%7BJimi2Morrow%7D%20Heart%20with%20dagger%20through%20it.png",
+    "https://raw.githubusercontent.com/Klokinator/FE-Repo/refs/heads/main/Item%20Icons%2FItems%20-%20Misc%2F%7BJimi2Morrow%7D%20Messenger%20Bag.png",
+    "https://raw.githubusercontent.com/Klokinator/FE-Repo/refs/heads/main/Item%20Icons%2FItems%20-%20Misc%2F%7BJimi2Morrow%7D%20Tambourine.png",
+    "https://raw.githubusercontent.com/Klokinator/FE-Repo/refs/heads/main/Item%20Icons%2FLances%20-%20Scythes%2F%7BPlant%20Academy%7D%20Scythe.png",
+    "https://raw.githubusercontent.com/Klokinator/FE-Repo/refs/heads/main/Item%20Icons%2FLances%20-%20Scythes%2F%7BPlant%20Academy%7D%20Sickle.png",
+    "https://raw.githubusercontent.com/Klokinator/FE-Repo/refs/heads/main/Item%20Icons%2FMagic%20-%20Dark%2F%7BSN_Ivan%7D%20Dark%20Blizzard.png",
+    "https://raw.githubusercontent.com/Klokinator/FE-Repo/refs/heads/main/Item%20Icons%2FMagic%20-%20Dark%2F%7BSN_Ivan%7D%20Dark%20Fire.png",
+    "https://raw.githubusercontent.com/Klokinator/FE-Repo/refs/heads/main/Item%20Icons%2FMagic%20-%20Dark%2F%7BSN_Ivan%7D%20Dark%20Thunder.png",
+    "https://raw.githubusercontent.com/Klokinator/FE-Repo/refs/heads/main/Item%20Icons%2FMagic%20-%20Dark%2F%7BSN_Ivan%7D%20Megido.png",
+    "https://raw.githubusercontent.com/Klokinator/FE-Repo/refs/heads/main/Item%20Icons%2FMagic%20-%20Dark%2F%7BSN_Ivan%7D%20Megidola.png",
+    "https://raw.githubusercontent.com/Klokinator/FE-Repo/refs/heads/main/Item%20Icons%2FMagic%20-%20Dark%2F%7BSN_Ivan%7D%20Megidolaon.png",
+    "https://raw.githubusercontent.com/Klokinator/FE-Repo/refs/heads/main/Item%20Icons%2FSpecial%20-%20Skill%20Icons%2F%7BJimi2Morrow%7D%20Adrenaline%20Junkie%20%28Blue%29.png",
+    "https://raw.githubusercontent.com/Klokinator/FE-Repo/refs/heads/main/Item%20Icons%2FSpecial%20-%20Skill%20Icons%2F%7BJimi2Morrow%7D%20Adrenaline%20Junkie%20%28Grey%29.png",
+    "https://raw.githubusercontent.com/Klokinator/FE-Repo/refs/heads/main/Item%20Icons%2FSpecial%20-%20Skill%20Icons%2F%7BJimi2Morrow%7D%20Barricade%20%28Rework%29.png",
+    "https://raw.githubusercontent.com/Klokinator/FE-Repo/refs/heads/main/Item%20Icons%2FSpecial%20-%20Skill%20Icons%2F%7BJimi2Morrow%7D%20Blue%20Flame%20%28Rework%29.png",
+    "https://raw.githubusercontent.com/Klokinator/FE-Repo/refs/heads/main/Item%20Icons%2FSpecial%20-%20Skill%20Icons%2F%7BJimi2Morrow%7D%20Charge%20%28Rework%29.png",
+    "https://raw.githubusercontent.com/Klokinator/FE-Repo/refs/heads/main/Item%20Icons%2FSpecial%20-%20Skill%20Icons%2F%7BJimi2Morrow%7D%20Clinical%20Trial.png",
+    "https://raw.githubusercontent.com/Klokinator/FE-Repo/refs/heads/main/Item%20Icons%2FSpecial%20-%20Skill%20Icons%2F%7BJimi2Morrow%7D%20Critical%20%2B30.png",
+    "https://raw.githubusercontent.com/Klokinator/FE-Repo/refs/heads/main/Item%20Icons%2FSpecial%20-%20Skill%20Icons%2F%7BJimi2Morrow%7D%20Draconic%20Heir.png",
+    "https://raw.githubusercontent.com/Klokinator/FE-Repo/refs/heads/main/Item%20Icons%2FSpecial%20-%20Skill%20Icons%2F%7BJimi2Morrow%7D%20Dragonskin%20%28Recolor%29.png",
+    "https://raw.githubusercontent.com/Klokinator/FE-Repo/refs/heads/main/Item%20Icons%2FSpecial%20-%20Skill%20Icons%2F%7BJimi2Morrow%7D%20Herbal%20Remedy.png",
+    "https://raw.githubusercontent.com/Klokinator/FE-Repo/refs/heads/main/Item%20Icons%2FSpecial%20-%20Skill%20Icons%2F%7BJimi2Morrow%7D%20Perfectionist%20%28Rework%20and%20Grey%29.png",
+    "https://raw.githubusercontent.com/Klokinator/FE-Repo/refs/heads/main/Item%20Icons%2FSpecial%20-%20Skill%20Icons%2F%7BJimi2Morrow%7D%20Perfectionist%20%28Rework%20and%20Red%29.png",
+    "https://raw.githubusercontent.com/Klokinator/FE-Repo/refs/heads/main/Item%20Icons%2FSpecial%20-%20Skill%20Icons%2F%7BJimi2Morrow%7D%20Temerity.png",
+    "https://raw.githubusercontent.com/Klokinator/FE-Repo/refs/heads/main/Item%20Icons%2FSwords%20-%20Daggers%2F%7BJimi2Morrow%7D%20Flame%20Shuriken.png",
+    "https://raw.githubusercontent.com/Klokinator/FE-Repo/refs/heads/main/Item%20Icons%2FSwords%20-%20Daggers%2F%7BJimi2Morrow%7D%20Navaja%20%28Dagger%29.png"
+  ],
+  "Map Sprites": [
+    "https://raw.githubusercontent.com/Klokinator/FE-Repo/refs/heads/main/Map%20Sprites%2FMagi%20-%20Nature-Type%2FSage%20%28F%29%20White%20Dress%20%7BCelestiaHeart%7D-stand.png",
+    "https://raw.githubusercontent.com/Klokinator/FE-Repo/refs/heads/main/Map%20Sprites%2FMagi%20-%20Nature-Type%2FSage%20%28F%29%20White%20Dress%20%7BCelestiaHeart%7D-walk.png",
+    "https://raw.githubusercontent.com/Klokinator/FE-Repo/refs/heads/main/Map%20Sprites%2FMagi%20-%20Nature-Type%2FSage%20%28F%29%20White%20Dress%2B%20Blonde%20Hair%20%7BCelestiaHeart%7D-stand.png",
+    "https://raw.githubusercontent.com/Klokinator/FE-Repo/refs/heads/main/Map%20Sprites%2FMagi%20-%20Nature-Type%2FSage%20%28F%29%20White%20Dress%2B%20Blonde%20Hair%20%7BCelestiaHeart%7D-walk.png"
+  ],
+  "Portrait Repository": []
 }
