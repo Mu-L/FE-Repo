@@ -21,3 +21,13 @@ Fixes by JJ09.
 Staff by GabrielKnight, scripted by ZoramineFae.
 
 Magic (Thunder crit) by Mycahel and ported by Seliost1.
+
+Sword (Double Sword) by tatata (Motion: T2 Orion [M] by TytheBub)
+
+Sword (special + flashing crit) by tatata (Motion: T2 Orion [M] by TytheBub)
+
+Sword (special fe8) by tatata (Motion: T2 Orion [M] by TytheBub)
+
+Sword (Special)by tatata (Motion: T2 Orion [M] by TytheBub)
+
+Bow by tatata (Motion: T2 Orion [M] by TytheBub)

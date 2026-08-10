@@ -149,15 +149,11 @@ C23                               #Play shorter sword swinging SFE
 6 p- Sword_003.png
 4 p- Sword_004.png
 C42                               #Play Axe falling SFE; long axe swinging SFE
+C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
 3 p- Sword_005.png
 3 p- Sword_031.png
 3 p- Sword_032.png
-C14                               #Heavy vibration of screen
-C1A                               #Normal hit
-C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
-C1F                               #Play hit SFE (sounds like Eliwood with sword's hit)
 3 p- Sword_032.png
-C01                               #NOP
 5 p- Sword_033.png
 C1C                               #Play light horse stepping SFE; pitch decreases
 5 p- Sword_032.png

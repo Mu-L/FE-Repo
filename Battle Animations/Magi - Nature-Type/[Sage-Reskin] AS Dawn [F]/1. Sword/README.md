@@ -22,4 +22,6 @@ Dawncaller visual error fix by Seliost1.
 
 Moonblade and Moonsplitter by Seliost1.
 
+Unarmed by Seliost1.
+
 

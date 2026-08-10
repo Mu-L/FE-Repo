@@ -38,7 +38,6 @@ C0D                               #End of dodge animation. preceeded by 0x06
 C03                               #Start attack animation; need 07 right after this.
 C07                               #Start attack animation; need 03 right before this.
 C15                               #Slight vibration of screen
-SE7                               #Sound 231 SE:Brigand battle cry @C85_33
 3 p- Axe_017.png
 3 p- Axe_001.png
 C1D                               #Play light horse stepping SFE; pitch increases
@@ -175,10 +174,6 @@ C42                               #Play Axe falling SFE; long axe swinging SFE
 3 p- Axe_005.png
 3 p- Axe_039.png
 3 p- Axe_040.png
-C14                               #Heavy vibration of screen
-C1A                               #Normal hit
-C04                               #Prepare HP depletion routine; needed to animate return to standing frame after hit
-C1F                               #Play hit SFE (sounds like Eliwood with sword's hit)
 3 p- Axe_040.png
 C01                               #NOP
 5 p- Axe_041.png

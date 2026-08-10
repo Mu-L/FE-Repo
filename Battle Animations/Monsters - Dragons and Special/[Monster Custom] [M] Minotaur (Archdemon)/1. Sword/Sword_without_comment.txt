@@ -144,15 +144,11 @@ C23
 6 p- Sword_003.png
 4 p- Sword_004.png
 C42
+C04
 3 p- Sword_005.png
 3 p- Sword_031.png
 3 p- Sword_032.png
-C14
-C1A
-C04
-C1F
 3 p- Sword_032.png
-C01
 5 p- Sword_033.png
 C1C
 5 p- Sword_032.png

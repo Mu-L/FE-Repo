@@ -33,7 +33,6 @@ C0D
 C03
 C07
 C15
-SE7
 3 p- Axe_017.png
 3 p- Axe_001.png
 C1D
@@ -170,10 +169,6 @@ C42
 3 p- Axe_005.png
 3 p- Axe_039.png
 3 p- Axe_040.png
-C14
-C1A
-C04
-C1F
 3 p- Axe_040.png
 C01
 5 p- Axe_041.png

@@ -18,3 +18,6 @@ Scripters: Epicer & Sax Marine.
 
 Handaxe animation by Enthusiasm.
 
+Sword (Alt), Axe (Alt), Lance (Alt), Magic (Alt) by tatata.
+
+

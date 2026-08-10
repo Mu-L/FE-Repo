@@ -2,7 +2,7 @@
 
 | <b>Sword</b><br/><img alt="Sword" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BSage-Reskin%5D%20AS%20Dawn%20%5BF%5D/1.%20Sword/Sword.gif"/> | <b>Sword (Dawncaller)</b><br/><img alt="Sword (Dawncaller)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BSage-Reskin%5D%20AS%20Dawn%20%5BF%5D/1.%20Sword%20(Dawncaller)/Sword.gif"/> | <b>Sword (Moonblade - BladeLord motion)</b><br/><img alt="Sword (Moonblade - BladeLord motion)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BSage-Reskin%5D%20AS%20Dawn%20%5BF%5D/1.%20Sword%20(Moonblade%20-%20BladeLord%20motion)/Sword.gif"/> |
 | :---: | :---: | :---: |
-| <b>Sword (Moonblade)</b><br/><img alt="Sword (Moonblade)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BSage-Reskin%5D%20AS%20Dawn%20%5BF%5D/1.%20Sword%20(Moonblade)/Sword.gif"/> | <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BSage-Reskin%5D%20AS%20Dawn%20%5BF%5D/6.%20Magic/Magic.gif"/> |
+| <b>Sword (Moonblade)</b><br/><img alt="Sword (Moonblade)" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BSage-Reskin%5D%20AS%20Dawn%20%5BF%5D/1.%20Sword%20(Moonblade)/Sword.gif"/> | <b>Magic</b><br/><img alt="Magic" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BSage-Reskin%5D%20AS%20Dawn%20%5BF%5D/6.%20Magic/Magic.gif"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://raw.githubusercontent.com/Klokinator/FE-Repo/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BSage-Reskin%5D%20AS%20Dawn%20%5BF%5D/8.%20Unarmed/Unarmed.gif"/> |
 
 ## Credits
 
@@ -19,6 +19,8 @@ Dawn edit by NamelessX.
 Dawncaller visual error fix by Seliost1.
 
 Moonblade and Moonsplitter by Seliost1.
+
+Unarmed by Seliost1.
 
 
 

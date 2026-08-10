@@ -19,3 +19,5 @@ Magic and Staff Basic Animations by Levin64, improved by HyperGammaSpaces.
 Magic (with staff) Animations by Nuramon.
 
 Combination of the two by RJ_Exists.
+
+Magic (Fire, Lightning, Ice, Forblaze) by Sir Lancelot.
