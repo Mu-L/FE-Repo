@@ -24,6 +24,12 @@ Unarmed by Seliost1.
 
 3. Axe (Scythe, alt crit 2 + ranged) by Seliost1.
 
+3. Axe (Scythe - Dreadnought + Ranged)
+
 3. Axe (Scythe, alt crit 3) by Seliost1.
 
 3. Axe (Scythe, alt crit) by Seliost1.
+
+Magic by Seliost1.
+
+

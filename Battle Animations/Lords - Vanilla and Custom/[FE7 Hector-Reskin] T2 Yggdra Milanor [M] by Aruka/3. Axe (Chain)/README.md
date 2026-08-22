@@ -13,3 +13,7 @@ F2U/F2E
 Made by Aruka, Kenpuhu.
 
 Handaxe critical and Unarmed by Seliost1.
+
+Sword, Axe (Vanilla), Axe by Seliost1.
+
+Axe does not share the same palette as the rest of the weapon types.

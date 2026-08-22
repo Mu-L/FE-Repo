@@ -13,3 +13,5 @@ F2U/F2E
 Base Armor Knight by IS.
 
 Animation by Alice.
+
+Sword, Axe, Handaxe, Magic, Staff by tatata.

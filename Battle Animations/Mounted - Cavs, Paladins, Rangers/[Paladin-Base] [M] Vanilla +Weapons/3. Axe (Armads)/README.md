@@ -25,3 +25,5 @@ Sword (Durandal) by Tatata.
 Axe (Armads) by Tatata.
 
 Unarmed (Mount only) by tatata.
+
+Lance (Gradivus) by Seliost1.

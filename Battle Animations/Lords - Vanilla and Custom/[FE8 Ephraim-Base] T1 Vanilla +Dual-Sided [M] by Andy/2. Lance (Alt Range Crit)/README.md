@@ -15,3 +15,15 @@ Vanilla animation by IS.
 Dual Lance by Andy.
 
 Lance (Alt Range Crit) by Seliost1.
+
+Sword by DerTheVaporeon, ported by tatata.
+
+Sword (Rapier) by DerTheVaporeon, ported by tatata.
+
+Axe by DerTheVaporeon, ported by tatata.
+
+Axe (Improved Flail) by JonoTheRed, ported by tatata.
+
+Magic by DerTheVaporeon, ported by tatata.
+
+All Dragonstone based anims by Beansy, ported by tatata.
